@@ -1,0 +1,11 @@
+pcd file name,bin file name
+lidar_points_235.pcd,lidar_points_235.bin_00000.bin
+lidar_points_245.pcd,lidar_points_235.bin_00001.bin
+lidar_points_255.pcd,lidar_points_235.bin_00002.bin
+lidar_points_265.pcd,lidar_points_235.bin_00003.bin
+lidar_points_275.pcd,lidar_points_235.bin_00004.bin
+lidar_points_285.pcd,lidar_points_235.bin_00005.bin
+lidar_points_295.pcd,lidar_points_235.bin_00006.bin
+lidar_points_305.pcd,lidar_points_235.bin_00007.bin
+lidar_points_315.pcd,lidar_points_235.bin_00008.bin
+lidar_points_325.pcd,lidar_points_235.bin_00009.bin
